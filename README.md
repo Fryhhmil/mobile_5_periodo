@@ -1,5 +1,7 @@
-# Atividades Mobile 5 Periodo
+# Atividades - Desenvolvimento Mobile (5º Período)
 
-# Yan Rufino
-# Daniel Antoni
-
+**Integrantes:**
+- Yan Rufino  
+- Daniel Antoni
+- Luis Fellipe Barradas
+- Yuri Estrela
